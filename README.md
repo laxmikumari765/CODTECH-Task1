@@ -1,1 +1,18 @@
-# CODTECH-Task1
+Name: LAXMI KUMARI
+Company:CODTECH IT SOLUTIONS
+ID:CT12DS394
+Domain:WEB DEVELOPEMENT
+Duration:1st JUNE to 30th JULY
+Mentor:SRAVANI GOUNI
+
+OVERVIEW OF WEB DEVELOPEMENT PROJECT
+OBJECTIVE
+Web development refers to the overall process of creating websites or web applications, including the project's design, layout, coding, content creation, and functionality. It involves using a combination of programming languages, tools, and frameworks to bring a website or web application to life.
+KEY ACTIVITIES
+Planning and Research. Before diving into development, it's crucial to have a clear plan in place. ...
+Defining the Scope and Structure. ...
+Design and Layout. ...
+Content Creation. ...
+Development and Coding. ...
+Testing and Quality Assurance. ...
+Deployment and Maintenance.
